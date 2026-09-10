@@ -92,7 +92,7 @@
 			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "6d42cc00-195b-4196-8436-7fc8debcae9a")
+			(uuid "215c125e-2dc0-4197-8f8b-345b7a852462")
 			(effects
 				(font
 					(size 1 1)
@@ -104,7 +104,7 @@
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "a51077dc-5d44-434b-8517-bcdfe7b74610")
+			(uuid "fba208c4-645b-476f-979c-d1ea4254a25f")
 			(effects
 				(font
 					(size 1 1)
@@ -117,7 +117,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "60605e7c-4d2c-4969-9522-815950a87d8f")
+			(uuid "8637d26c-8dfb-4c33-b83c-511aff46c2b5")
 			(effects
 				(font
 					(size 1 1)
@@ -130,7 +130,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e26aadf1-d23a-4bff-b553-674adb1a3ca4")
+			(uuid "154df970-1c02-4256-be1b-5b515b6a5e0c")
 			(effects
 				(font
 					(size 1 1)
@@ -143,7 +143,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9c895584-e4e9-4191-bf18-e2f15428d3cf")
+			(uuid "3c0b912e-a549-4baf-8b8a-06d57aae64d4")
 			(effects
 				(font
 					(size 1 1)
@@ -159,7 +159,7 @@
 			(at 0 2.5 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7007ab43-d6ad-4802-a760-db289925ec6a")
+			(uuid "55c102ae-c700-45ee-bf48-15629d2d1c69")
 			(effects
 				(font
 					(size 1 1)
@@ -170,46 +170,46 @@
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 4 4)
-			(drill 1.5)
+			(drill 1.4)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "653c34c2-c0d6-4a90-9f15-139ea78b452d")
+			(uuid "ea98e4e5-98dd-427b-ac5a-23b135dc049a")
 		)
 		(pad "1" thru_hole circle
 			(at 5 0)
 			(size 4 4)
-			(drill 1.5)
+			(drill 1.4)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_out")
-			(uuid "534e681e-bf96-427f-bbda-2ca7ec526896")
+			(uuid "07d5248c-fe94-49a1-a394-f53459691f48")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -40)
 			(size 4 4)
-			(drill 1.5)
+			(drill 1.4)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "+18V")
 			(pinfunction "18V")
 			(pintype "power_out")
-			(uuid "0280cb88-ddef-49bf-8d66-ce4a30e2bf4e")
+			(uuid "02fc0155-884d-415f-964c-711c907708e1")
 		)
 		(pad "2" thru_hole circle
 			(at 5 -40)
 			(size 4 4)
-			(drill 1.5)
+			(drill 1.4)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 2 "+18V")
 			(pinfunction "18V")
 			(pintype "power_out")
-			(uuid "bdde75dc-daa3-4c0c-8949-2297c36e9700")
+			(uuid "fe1d3d71-5112-464c-a72a-3ba4d1570714")
 		)
 		(model "${KIPRJMOD}/lib/bosch18v/bosch18v-90deg.step"
 			(offset
