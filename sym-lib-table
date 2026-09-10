@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bosch18v")(type "KiCad")(uri "${KIPRJMOD}/lib/bosch18v/bosch18v.kicad_sym")(options "")(descr ""))
+)

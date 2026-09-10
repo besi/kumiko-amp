@@ -1,0 +1,3 @@
+[submodule "lib/bosch18v"]
+	path = lib/bosch18v
+	url = https://github.com/besi/kicad-bosch18v.git
